@@ -1,1 +1,1 @@
-# HNU-Daily-Attendance
+湖南大学每日疫情打卡python程序
